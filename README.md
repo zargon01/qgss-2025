@@ -7,4 +7,6 @@ qBraid is an official Jupyter Lab cloud platform host for the Qiskit Global Summ
 
 To open the QGSS files, labs, and resources directly on qBraid, click this button:
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/qBraid.git)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/qiskit-community/qgss-2025.git&api=v2)
+
+
